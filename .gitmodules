@@ -1,0 +1,9 @@
+[submodule "01-e2e-tests-nodejs-and-challenges"]
+	path = 01-e2e-tests-nodejs-and-challenges
+	url = https://github.com/ErickWendel/live-e2e-nodejs-and-challenges.git
+[submodule "02-docker-secrets-meme-maker"]
+	path = 02-docker-secrets-meme-maker
+	url = https://github.com/ErickWendel/docker-secrets-meme-maker.git
+[submodule "03-streams-beginners-guide"]
+	path = 03-streams-beginners-guide
+	url = https://github.com/ErickWendel/live-streams-beginners-guide.git
